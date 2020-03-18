@@ -27,13 +27,13 @@ You can edit and run this project in JupyterLab, jupyter Notebook, and VS Code. 
 
 ### Code and test like a Data Scientist
 
-Once you open an ipynb file, VS Code automatically starts a Jupyter server and renders the Markdown cells and ML cells. Markdown blocks and ML blocks are just fancy words for documentation and executable codes fragments.
+Once you open an ipynb file, VS Code automatically starts a Jupyter server and renders the Markdown cells and ML cells. Markdown cells and ML cells are just fancy words for documentation and executable codes fragments.
 
 ![VSCode](./image_for_readme/code-ipynb.png "VS Code ipynb")
 
-You can see the first block is a documentation. If you double click on it, you can edit it in Markdown syntax.
+You can see the first cell is a documentation. If you double click on it, you can edit it in Markdown syntax.
 
-The second block is a python block. You can update some of the "constant" variables in there. Constant is in quote because python doesn't believe in constant.
+The second cell is a python cell. You can update some of the "constant" variables in there. Constant is in quote because python doesn't believe in constant.
 
 Once you wrote some code, you should test. VS Code provides the following run mode:
 
